@@ -21,12 +21,10 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.google.com.ar/?gws_rd=ssl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/whatsapp.png" width="70" /></a>  
+&nbsp; <a href="https://api.whatsapp.com/send?phone=5491168716275&text=Hola+Alexis!+" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/whatsapp.png" width="70" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/alexis-correa-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/linkedin.png" width="70" /></a>
 &nbsp; 
 <a href="mailto:alexis.correa026@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/gmail.png"  width="70" /></a>
